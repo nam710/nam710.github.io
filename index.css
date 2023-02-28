@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/04/06/87/08/360_F_406870867_AYHwVBpxHS2rhDqEwB0ndveDJxuD79F7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    font:large ;
+}
+h1{
+    color: goldenrod;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-size: large;
+}
+#message{
+    font-style: italic;
+}
+button{
+    display: block;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid gold 2px;
+    color: gold;
+    background-color: rgba(240, 248, 255, 0);
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 5px;
+    text-align: center;
+    width: 150px;
+}
