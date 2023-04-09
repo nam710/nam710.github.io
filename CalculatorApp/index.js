@@ -64,3 +64,12 @@ function divide(){
     ans = parseInt(num1) / parseInt(num2)
     display.textContent = ans
 }
+function modulus(){
+    if(num1 == null || num2 == null){
+        err()
+        return
+    }
+    symbol.textContent="%"
+    ans = parseInt(num1) % parseInt(num2)
+    display.textContent = ans
+}
